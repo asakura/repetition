@@ -1,6 +1,6 @@
 # 10 Days of JavaScript
 
-* [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world) solution [JS](Day 0: Hello, World!/solution.js)
+* [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world) solution [JS](https://github.com/asakura/repetition/blob/master/hackerrank/10 Days of Javascript/Day 0: Hello, World!/solution.js)
 * [Day 0: Data Types](https://www.hackerrank.com/challenges/js10-data-types) solution [JS](Day 0: Data Types/solution.js)
 * [Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators) solution [JS](Day 1: Arithmetic Operators/solution.js)
 * [Day 1: Functions](https://www.hackerrank.com/challenges/js10-function) solution [JS](Day 1: Functions/solution.js)
