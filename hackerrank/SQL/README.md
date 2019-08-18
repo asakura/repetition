@@ -62,35 +62,35 @@
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 7/solution.mysql.sql>)
     -   [x] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 7/solution.oracle.sql>) *
 -   [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8) solutions:
-    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 8/solution.db2.sql>)
-    -   [ ] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 8/solution.mssql.sql>)
+    -   [x] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 8/solution.db2.sql>) *
+    -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 8/solution.mssql.sql>) **
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 8/solution.mysql.sql>)
-    -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 8/solution.oracle.sql>)
+    -   [x] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 8/solution.oracle.sql>) *
 -   [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9) solutions:
-    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 9/solution.db2.sql>)
-    -   [ ] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 9/solution.mssql.sql>)
+    -   [x] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 9/solution.db2.sql>) *
+    -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 9/solution.mssql.sql>) **
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 9/solution.mysql.sql>)
-    -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 9/solution.oracle.sql>)
--   [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10)solutions:
-    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 10/solution.db2.sql>)
-    -   [ ] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 10/solution.mssql.sql>)
+    -   [x] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 9/solution.oracle.sql>) *
+-   [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10) solutions:
+    -   [x] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 10/solution.db2.sql>) *
+    -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 10/solution.mssql.sql>) **
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 10/solution.mysql.sql>)
-    -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 10/solution.oracle.sql>)
+    -   [x] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 10/solution.oracle.sql>) *
 -   [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11) solutions:
-    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 11/solution.db2.sql>)
-    -   [ ] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 11/solution.mssql.sql>)
+    -   [x] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 11/solution.db2.sql>) *
+    -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 11/solution.mssql.sql>) **
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 11/solution.mysql.sql>)
-    -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 11/solution.oracle.sql>)
+    -   [x] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 11/solution.oracle.sql>) *
 -   [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12) solutions:
-    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 12/solution.db2.sql>)
-    -   [ ] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 12/solution.mssql.sql>)
+    -   [x] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 12/solution.db2.sql>) *
+    -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 12/solution.mssql.sql>) **
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 12/solution.mysql.sql>)
-    -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 12/solution.oracle.sql>)
+    -   [x] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Weather Observation Station 12/solution.oracle.sql>) *
 -   [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks) solutions:
     -   [x] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Higher Than 75 Marks/solution.db2.sql>)
     -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Higher Than 75 Marks/solution.mssql.sql>)
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Higher Than 75 Marks/solution.mysql.sql>)
-    -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Higher Than 75 Marks/solution.oracle.sql>)
+    -   [x] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Higher Than 75 Marks/solution.oracle.sql>) *
 -   [Employee Names](https://www.hackerrank.com/challenges/name-of-employees) solutions:
     -   [x] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Employee Names/solution.db2.sql>)
     -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Employee Names/solution.mssql.sql>)
