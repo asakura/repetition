@@ -1,4 +1,4 @@
-SELECT * 
+SELECT *
 FROM (SELECT city, LENGTH(city) FROM station ORDER BY LENGTH(city), city)
 WHERE rownum <= 1;
 
