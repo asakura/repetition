@@ -2,7 +2,7 @@
 
 ## Basic Select
 * [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query) solutions:
-  - [x] [DB2](Revising the Select Query I/solutions.db2.sql)
+  - [x] [DB2](./Revising the Select Query I/solutions.db2.sql)
   - [x] [MS SQL Server](Revising the Select Query I/solutions.mssql.sql)
   - [x] [MySQL](Revising the Select Query I/solutions.mysql.sql)
   - [x] [Oracle](Revising the Select Query I/solutions.oracle.sql)
