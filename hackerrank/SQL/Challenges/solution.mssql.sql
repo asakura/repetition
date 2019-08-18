@@ -3,14 +3,13 @@ FROM hackers ha
 JOIN challenges ch ON ha.hacker_id = ch.hacker_id
 GROUP BY ha.hacker_id, name
 HAVING
-  total = (
-    SELECT COUNT(challenge_id) as max_total
+  COUNT(ch.challenge_id) = (
+    SELECT TOP 1 COUNT(challenge_id) as max_total
     FROM challenges
     GROUP BY hacker_id
     ORDER BY max_total DESC
-    LIMIT 1
   )
-  OR total IN (
+  OR COUNT(ch.challenge_id) IN (
     SELECT total
     FROM (
       SELECT COUNT(challenge_id) AS total
@@ -20,5 +19,5 @@ HAVING
     ) all_totals
     GROUP BY total
     HAVING COUNT(total) = 1
-  )
+)
 ORDER BY total DESC, ha.hacker_id;

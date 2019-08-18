@@ -218,45 +218,42 @@
 
 ## Basic Join
 -   [Asian Population](https://www.hackerrank.com/challenges/asian-population) solutions:
-    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Asian Population/solution.db2.sql>)
     -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Asian Population/solution.mssql.sql>)
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Asian Population/solution.mysql.sql>)
     -   [x] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Asian Population/solution.oracle.sql>)
 -   [African Cities](https://www.hackerrank.com/challenges/african-cities) solutions:
-    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/African Cities/solution.db2.sql>)
     -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/African Cities/solution.mssql.sql>)
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/African Cities/solution.mysql.sql>)
     -   [x] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/African Cities/solution.oracle.sql>)
 -   [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent) solutions:
-    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Average Population of Each Continent/solution.db2.sql>)
     -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Average Population of Each Continent/solution.mssql.sql>)
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Average Population of Each Continent/solution.mysql.sql>)
     -   [x] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Average Population of Each Continent/solution.oracle.sql>)
 -   [The Report](https://www.hackerrank.com/challenges/the-report) solutions:
-    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/The Report/solution.db2.sql>)
-    -   [ ] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/The Report/solution.mssql.sql>)
+    -   [x] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/The Report/solution.db2.sql>) *
+    -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/The Report/solution.mssql.sql>) **
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/The Report/solution.mysql.sql>)
-    -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/The Report/solution.oracle.sql>)
+    -   [x] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/The Report/solution.oracle.sql>) ***
 -   [Top Competitors](https://www.hackerrank.com/challenges/full-score) solutions:
     -   [x] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Top Competitors/solution.db2.sql>)
     -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Top Competitors/solution.mssql.sql>)
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Top Competitors/solution.mysql.sql>)
     -   [x] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Top Competitors/solution.oracle.sql>)
 -   [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands) solutions:
-    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Ollivander's Inventory/solution.db2.sql>)
-    -   [ ] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Ollivander's Inventory/solution.mssql.sql>)
+    -   [x] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Ollivander's Inventory/solution.db2.sql>)
+    -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Ollivander's Inventory/solution.mssql.sql>)
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Ollivander's Inventory/solution.mysql.sql>)
-    -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Ollivander's Inventory/solution.oracle.sql>)
+    -   [x] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Ollivander's Inventory/solution.oracle.sql>) *
 -   [Challenges](https://www.hackerrank.com/challenges/challenges) solutions:
-    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Challenges/solution.db2.sql>)
-    -   [ ] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Challenges/solution.mssql.sql>)
+    -   [x] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Challenges/solution.db2.sql>) *
+    -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Challenges/solution.mssql.sql>) **
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Challenges/solution.mysql.sql>)
     -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Challenges/solution.oracle.sql>)
 -   [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard) solutions:
-    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Contest Leaderboard/solution.db2.sql>)
-    -   [ ] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Contest Leaderboard/solution.mssql.sql>)
+    -   [x] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Contest Leaderboard/solution.db2.sql>) *
+    -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Contest Leaderboard/solution.mssql.sql>) *
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Contest Leaderboard/solution.mysql.sql>)
-    -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Contest Leaderboard/solution.oracle.sql>)
+    -   [x] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Contest Leaderboard/solution.oracle.sql>) **
 
 ## Advanced Join
 

@@ -3,7 +3,7 @@ FROM wands wa
 JOIN (
   SELECT wa.code, power, MAX(wp.age) AS age, MIN(coins_needed) AS price
   FROM wands wa
-  JOIN wands_property AS wp ON wp.code = wa.code
+  JOIN wands_property wp ON wp.code = wa.code
   WHERE wp.is_evil = 0
   GROUP BY wa.code, wa.power
 ) cheap ON cheap.code = wa.code AND cheap.price = wa.coins_needed

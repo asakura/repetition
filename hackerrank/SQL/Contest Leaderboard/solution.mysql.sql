@@ -8,4 +8,4 @@ JOIN (
 ) AS score ON score.hacker_id = hackers.hacker_id
 GROUP BY hacker_id, name
 HAVING total > 0
-ORDER BY total DESC, hacker_id ASC;
+ORDER BY total DESC, hacker_id;
