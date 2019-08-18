@@ -104,25 +104,25 @@
 
 ## Advanced Select
 -   [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle) solutions:
-    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Type of Triangle/solution.db2.sql>)
-    -   [ ] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Type of Triangle/solution.mssql.sql>)
+    -   [x] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Type of Triangle/solution.db2.sql>) *
+    -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Type of Triangle/solution.mssql.sql>) **
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Type of Triangle/solution.mysql.sql>)
-    -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Type of Triangle/solution.oracle.sql>)
+    -   [x] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Type of Triangle/solution.oracle.sql>) *
 -   [The PADS](https://www.hackerrank.com/challenges/the-pads) solutions:
-    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/The PADS/solution.db2.sql>)
+    -   [x] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/The PADS/solution.db2.sql>) *
     -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/The PADS/solution.mssql.sql>)
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/The PADS/solution.mysql.sql>)
-    -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/The PADS/solution.oracle.sql>)
+    -   [x] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/The PADS/solution.oracle.sql>) **
 -   [Occupations](https://www.hackerrank.com/challenges/occupations) solutions:
     -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Occupations/solution.db2.sql>)
     -   [ ] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Occupations/solution.mssql.sql>)
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Occupations/solution.mysql.sql>)
     -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Occupations/solution.oracle.sql>)
 -   [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1) solutions:
-    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Binary Tree Nodes/solution.db2.sql>)
-    -   [ ] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Binary Tree Nodes/solution.mssql.sql>)
+    -   [x] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Binary Tree Nodes/solution.db2.sql>) *
+    -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Binary Tree Nodes/solution.mssql.sql>) *
     -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Binary Tree Nodes/solution.mysql.sql>)
-    -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Binary Tree Nodes/solution.oracle.sql>)
+    -   [x] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Binary Tree Nodes/solution.oracle.sql>) *
 -   [New Companies](https://www.hackerrank.com/challenges/the-company) solutions:
     -   [x] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/New Companies/solution.db2.sql>)
     -   [x] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/New Companies/solution.mssql.sql>)
@@ -256,6 +256,31 @@
     -   [x] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Contest Leaderboard/solution.oracle.sql>) **
 
 ## Advanced Join
+-   [Projects](https://www.hackerrank.com/challenges/projects) solutions:
+    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Projects/solution.db.sql>)
+    -   [ ] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Projects/solution.mssql.sql>)
+    -   [ ] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Projects/solution.mysql.sql>)
+    -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Projects/solution.oracle.sql>)
+-   [Placements](https://www.hackerrank.com/challenges/placements) solutions:
+    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Placements/solution.db.sql>)
+    -   [ ] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Placements/solution.mssql.sql>)
+    -   [ ] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Placements/solution.mysql.sql>)
+    -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Placements/solution.oracle.sql>)
+-   [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs) solutions:
+    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Symmetric Pairs/solution.db.sql>)
+    -   [ ] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Symmetric Pairs/solution.mssql.sql>)
+    -   [ ] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Symmetric Pairs/solution.mysql.sql>)
+    -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Symmetric Pairs/solution.oracle.sql>)
+-   [Interviews](https://www.hackerrank.com/challenges/interviews) solutions:
+    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Interviews/solution.db.sql>)
+    -   [ ] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Interviews/solution.mssql.sql>)
+    -   [ ] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Interviews/solution.mysql.sql>)
+    -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/Interviews/solution.oracle.sql>)
+-   [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql) solutions:
+    -   [ ] [DB2](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/15 Days of Learning SQL/solution.db.sql>)
+    -   [ ] [MS SQL Server](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/15 Days of Learning SQL/solution.mssql.sql>)
+    -   [x] [MySQL](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/15 Days of Learning SQL/solution.mysql.sql>)
+    -   [ ] [Oracle](<https://github.com/asakura/repetition/blob/master/hackerrank/SQL/15 Days of Learning SQL/solution.oracle.sql>)
 
 ## Alternative Queries
 -   [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1) solutions:
