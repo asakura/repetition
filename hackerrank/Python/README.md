@@ -65,6 +65,9 @@
 ## Built-Ins
 
 ## Python Functionals
+-   [x] [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression) solution: [Python 3](<https://github.com/asakura/repetition/blob/master/hackerrank/Python/Map and Lambda Function/solution.py>)
+-   [x] [Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter) solution: [Python 3](<https://github.com/asakura/repetition/blob/master/hackerrank/Python/Validating Email Addresses With a Filter/solution.py>)
+-   [x] [Reduce Function](https://www.hackerrank.com/challenges/reduce-function) solution: [Python 3](<https://github.com/asakura/repetition/blob/master/hackerrank/Python/Reduce Function/solution.py>)
 
 ## Regex and Parsing
 -   [x] [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex) solution: [Python 3](<https://github.com/asakura/repetition/blob/master/hackerrank/Python/Detect Floating Point Number/solution.py>)
@@ -92,3 +95,5 @@
 ## Numpy
 
 ## Debugging
+-   [x] [Default Arguments](https://www.hackerrank.com/challenges/default-arguments) solution: [Python 3](<https://github.com/asakura/repetition/blob/master/hackerrank/Python/Default Arguments/solution.py>)
+-   [x] [Words Score](https://www.hackerrank.com/challenges/words-score) solution: [Python 3](<https://github.com/asakura/repetition/blob/master/hackerrank/Python/Words Score/solution.py>)
